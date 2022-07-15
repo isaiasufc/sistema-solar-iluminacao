@@ -1,0 +1,68 @@
+﻿  imageloader.cpp
+  main.cpp
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(26,41): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(26,34): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(37,36): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(37,30): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(44,37): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(46,38): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(47,38): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(48,38): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(49,38): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(50,40): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(51,40): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(52,33): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(53,35): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(54,35): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(55,33): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(56,35): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(57,35): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(58,35): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(59,35): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(60,35): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(61,35): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(142,44): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(142,37): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(143,44): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(143,37): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(144,44): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(144,37): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(145,44): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(145,37): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(146,44): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(146,37): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(147,44): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(147,37): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(148,44): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(148,37): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(149,44): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(149,37): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(190,31): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(203,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(203,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(225,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(225,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(247,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(247,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(269,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(269,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(297,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(297,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(314,30): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(327,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(327,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(346,30): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(359,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(359,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(365,32): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(365,26): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(366,32): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(366,26): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(382,30): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(395,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(395,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(411,30): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(424,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\isaia\OneDrive\Desktop\sistema-solar\main.cpp(424,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+  Gerando Código...
+  SolarSystem.vcxproj -> C:\Users\isaia\OneDrive\Desktop\sistema-solar\Debug\SolarSystem.exe
